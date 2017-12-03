@@ -11,5 +11,5 @@ $ mix escript.build
 
 ## Execute
 ```
-./dlixir -l httpoison|httpotion -u http://xxx [-o filepath] [-c chunksize]
+./dlixir -l httpoison|httpotion -u http://xxx [-o filepath] [-c chunksize] [--once]
 ```
